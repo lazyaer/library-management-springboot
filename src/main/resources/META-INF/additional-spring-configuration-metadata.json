@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "sever.port",
+      "type": "java.lang.String",
+      "description": "Description for sever.port."
+    },
+    {
+      "name": "mybatis-plus.configuration.map-underscore-to-camel-case.type-aliases-package",
+      "type": "java.lang.String",
+      "description": "Description for mybatis-plus.configuration.map-underscore-to-camel-case.type-aliases-package."
+    }
+  ] }
